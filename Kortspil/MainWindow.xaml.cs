@@ -33,6 +33,7 @@ namespace Kortspil
             string resultat = "2-Spar.jpg";
 
             // Skriv din løsning her...
+            // Test first commitment after fork "https://github.com/SmartLearning-Org/Kortspil-Programmering" and clone respository to local PC
 
             return resultat;
         }
